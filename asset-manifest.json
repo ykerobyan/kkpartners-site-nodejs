@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kkpartners-site-nodejs/static/css/main.7aa15196.css",
-    "main.js": "/kkpartners-site-nodejs/static/js/main.d099731a.js",
-    "index.html": "/kkpartners-site-nodejs/index.html",
-    "main.7aa15196.css.map": "/kkpartners-site-nodejs/static/css/main.7aa15196.css.map",
-    "main.d099731a.js.map": "/kkpartners-site-nodejs/static/js/main.d099731a.js.map"
+    "main.css": "/static/css/main.7aa15196.css",
+    "main.js": "/static/js/main.d099731a.js",
+    "index.html": "/index.html",
+    "main.7aa15196.css.map": "/static/css/main.7aa15196.css.map",
+    "main.d099731a.js.map": "/static/js/main.d099731a.js.map"
   },
   "entrypoints": [
     "static/css/main.7aa15196.css",
